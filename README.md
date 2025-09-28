@@ -8,4 +8,6 @@ Logo abaixo, tem algumas demonstrações:
 Versão de Celular/Tablet:
 <img src="https://cdn.discordapp.com/attachments/966101640593690644/1421664185527308398/image.png?ex=68d9db73&is=68d889f3&hm=42bf47cacc6b24232cfe76577b3183bc092b7e6f3f0f8788bb4f1e00c5d31bda&">
 
-&copy; 2025 Pablo Henrique | Todos os Direitos Reservados.
+Copyright &copy; 2025 Pablo Henrique | Todos os Direitos Reservados.
+
+Desenvolvido com ❤ e muito ☕ por **Pablo Henrique**.
