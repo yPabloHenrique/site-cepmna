@@ -35,7 +35,7 @@ main {
 }
 .banner {
     background-color: #000000a9;
-    height: 800px;
+    height: 1200px;
     display: flex;
     align-items: center;
     padding: 0 20px;
@@ -46,6 +46,7 @@ main {
     padding: 10px 20px 40px 30px;
     border-radius: 20px;
     max-width: 600px;
+    margin: 50px 0px;
 }
 .text-paragraph > h1 {
     font-size: 2.3em;
@@ -161,9 +162,9 @@ main {
 }
 .destaque-box {
     background-color: #444;
-    padding: 10px;
+    padding: 10px 30px;
     border-radius: 20px;
-    flex-basis: 350px;
+    flex-basis: 200px;
     flex-grow: 1;
     flex-shrink: 0;
 }

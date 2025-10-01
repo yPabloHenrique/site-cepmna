@@ -29,4 +29,7 @@
     transition: 0.5s;
     font-weight: 600;
 }
+.banner {
+    height: 800px;
+}
 }
