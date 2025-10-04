@@ -23,8 +23,32 @@
     padding: 8px 12px;
     border-radius: 6px;
 }
-.nav > nav > a:hover {
-    background-color: rgb(255, 226, 97);
+.link-red:hover {
+    background-color: rgb(255, 60, 60);
+    color: #222;
+    transition: 0.5s;
+    font-weight: 600;
+}
+.link-blue:hover {
+    background-color: rgb(60, 89, 255);
+    color: #222;
+    transition: 0.5s;
+    font-weight: 600;
+}
+.link-green:hover {
+    background-color: rgb(0, 128, 21);
+    color: #222;
+    transition: 0.5s;
+    font-weight: 600;
+}
+.link-yellow:hover {
+    background-color: rgb(242, 255, 60);
+    color: #222;
+    transition: 0.5s;
+    font-weight: 600;
+}
+.link-orange:hover {
+    background-color: rgb(255, 170, 60);
     color: #222;
     transition: 0.5s;
     font-weight: 600;
