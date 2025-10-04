@@ -198,6 +198,7 @@ footer {
 .footer-child > a:hover {
     color: rgb(255, 226, 97);
     transition: 0.5s;
+    margin-left: 10px;
     font-weight: 600;
 }
 .footer-bottom {
